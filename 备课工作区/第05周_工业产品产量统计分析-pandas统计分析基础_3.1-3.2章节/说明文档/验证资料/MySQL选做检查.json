@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-24",
+  "file": "选做内容/选做内容.ipynb",
+  "python": "3.12.14",
+  "packages": {
+    "pandas": "3.1.0",
+    "PyMySQL": "1.2.3",
+    "SQLAlchemy": "2.1.6"
+  },
+  "code_cells": 18,
+  "exercise_TODO_cells": 3,
+  "validation": "Notebook structure, all Python syntax, template config, offline MySQL driver value escaping and SQLAlchemy URL/parameter compilation passed",
+  "mysql_server_execution": "NOT RUN; no actual server or credentials used; SQL syntax and server behavior still need live confirmation",
+  "student_exercises": "TODO preserved",
+  "old_outputs": "cleared",
+  "protected_course_and_data": "unchanged",
+  "student_zip": "only provenance MD refreshed, no MySQL credentials or teacher answers",
+  "backup": "/var/folders/qj/yrdc2hrx3mg1qw023rfvp3600000gn/T/week05-mysql-jflsjzo4/before",
+  "local_links_checked": 93,
+  "legacy_missing": [
+    "/Users/lyb/Desktop/python金融大数据分析（课堂教学文件）/备课工作区/第03周_NumPy粮食产量分析/第三周_学生资源.zip"
+  ]
+}

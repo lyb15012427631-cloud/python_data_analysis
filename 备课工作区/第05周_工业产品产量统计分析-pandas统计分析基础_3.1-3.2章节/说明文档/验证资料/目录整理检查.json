@@ -1,0 +1,13 @@
+{
+  "moved_files": 19,
+  "path_checks": 13,
+  "notebooks": "5 valid; non-setup code, outputs and execution counts preserved",
+  "data_and_outputs": "byte-identical",
+  "local_links_checked": 89,
+  "legacy_missing_links": [
+    "/Users/lyb/Desktop/python金融大数据分析（课堂教学文件）/备课工作区/第03周_NumPy粮食产量分析/第三周_学生资源.zip"
+  ],
+  "student_zip": "7 files, no teacher answers or SQL, extracted path check passed",
+  "original_sources": "5 source hashes unchanged",
+  "backup": "/private/var/folders/qj/yrdc2hrx3mg1qw023rfvp3600000gn/T/week05-organize-neuffj2m/before"
+}

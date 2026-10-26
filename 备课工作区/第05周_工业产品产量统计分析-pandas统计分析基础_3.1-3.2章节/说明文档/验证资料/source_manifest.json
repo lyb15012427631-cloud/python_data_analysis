@@ -1,0 +1,27 @@
+[
+  {
+    "source": "课程配套资源/Python数据分析与应用（第3版）_正文数据和代码/知识准备/项目3/code/任务3.1 读取工业产品产量数据.ipynb",
+    "sha256": "e29f6fc1fe8f3f1d02a0bd2faace11451a33014a5da38587896e68fbab0e9ec2",
+    "bytes": 19340
+  },
+  {
+    "source": "课程配套资源/Python数据分析与应用（第3版）_正文数据和代码/知识准备/项目3/code/任务3.2 分析工业产品产量数据的基本情况.ipynb",
+    "sha256": "5593fe4e35e48298a9bb6de09e37df2e922725bb5c79f6e33f385efe70f294a2",
+    "bytes": 23153
+  },
+  {
+    "source": "课程配套资源/Python数据分析与应用（第3版）_正文数据和代码/知识准备/项目3/data/salesdata.csv",
+    "sha256": "a77e18dcea5cd40e2babbc7a754ea2b40c9173842e8a86f98d14a5e87fdd2d27",
+    "bytes": 52397
+  },
+  {
+    "source": "课程配套资源/Python数据分析与应用（第3版）_正文数据和代码/知识准备/项目3/data/salesdata.xlsx",
+    "sha256": "f927841c9472da0314d552c5d99de83eb56e0b78e3c48d648d5d33d86b2bdb38",
+    "bytes": 45088
+  },
+  {
+    "source": "课程配套资源/Python数据分析与应用（第3版）_正文数据和代码/任务实现/项目3/data/工业产品产量数据.csv",
+    "sha256": "efeb0438714838f067fa31a1b3a2d858dd25cc526d3b7dd19cef7f70388538fb",
+    "bytes": 569169
+  }
+]

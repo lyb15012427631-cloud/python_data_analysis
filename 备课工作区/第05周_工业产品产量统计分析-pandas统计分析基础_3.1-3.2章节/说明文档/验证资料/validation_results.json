@@ -1,0 +1,39 @@
+{
+  "python": "3.12.14 (main, Sep  3 2026, 03:46:19) [Clang 21.1.8 ]",
+  "pandas": "3.1.0",
+  "notebooks": [
+    {
+      "file": "上课文件/01_任务3.1_读取数据_新版pandas.ipynb",
+      "code_cells": 10,
+      "status": "passed"
+    },
+    {
+      "file": "上课文件/02_任务3.2_基本操作与统计_新版pandas.ipynb",
+      "code_cells": 38,
+      "status": "passed"
+    },
+    {
+      "file": "练习文件/04_教师参考答案_请勿随学生版分发.ipynb",
+      "code_cells": 6,
+      "status": "passed"
+    },
+    {
+      "file": "选做内容/选做内容.ipynb",
+      "code_cells": 6,
+      "status": "historical_SQLite_passed_superseded_by_MySQL_not_run"
+    }
+  ],
+  "code_cells": 60,
+  "student": "static_only_TODO_preserved",
+  "source_files_unchanged": 15,
+  "metadata_changed": [
+    "课程配套资源/Python数据分析与应用（第3版）_正文数据和代码/知识准备/项目3/.DS_Store"
+  ],
+  "independent_statistics": "passed",
+  "csv_excel_normalized_equivalence": "passed",
+  "scripts": "2 passed",
+  "regression_probes": "3 passed",
+  "validation_directory": "/var/folders/qj/yrdc2hrx3mg1qw023rfvp3600000gn/T/week05-pandas-mx5bezai/run_latest",
+  "path_layout_note": "2026-10-24文件已分类；历史运行目录不变，当前路径见README。",
+  "scope_note": "历史运行结果，包含已替换的SQLite6单元；当前MySQL版未运行，见MySQL选做检查.json。"
+}

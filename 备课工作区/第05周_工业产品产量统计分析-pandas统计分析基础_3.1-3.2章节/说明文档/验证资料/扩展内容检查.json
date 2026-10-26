@@ -1,0 +1,73 @@
+{
+  "runs": [
+    {
+      "environment": "pandas3.1",
+      "file": "01_任务3.1_读取数据_新版pandas.ipynb",
+      "code_cells": 16,
+      "status": "passed",
+      "excel": "executed on pandas3.1; skipped without openpyxl on pandas3.0.5"
+    },
+    {
+      "environment": "pandas3.1",
+      "file": "02_任务3.2_基本操作与统计_新版pandas.ipynb",
+      "code_cells": 52,
+      "status": "passed",
+      "excel": "not applicable"
+    },
+    {
+      "environment": "pandas3.0.5",
+      "file": "01_任务3.1_读取数据_新版pandas.ipynb",
+      "code_cells": 16,
+      "status": "passed",
+      "excel": "executed on pandas3.1; skipped without openpyxl on pandas3.0.5"
+    },
+    {
+      "environment": "pandas3.0.5",
+      "file": "02_任务3.2_基本操作与统计_新版pandas.ipynb",
+      "code_cells": 52,
+      "status": "passed",
+      "excel": "not applicable"
+    }
+  ],
+  "independent_csv_reference": {
+    "range_50_100_records": 333,
+    "price_mean": 82.23316062176166
+  },
+  "original_cells": {
+    "01_任务3.1_读取数据_新版pandas.ipynb": 21,
+    "02_任务3.2_基本操作与统计_新版pandas.ipynb": 76
+  },
+  "source_hashes": {
+    "/Users/lyb/Desktop/python金融大数据分析（课堂教学文件）/课程配套资源/Python数据分析与应用（第3版）_正文数据和代码/知识准备/项目3/code/任务3.1 读取工业产品产量数据.ipynb": "e29f6fc1fe8f3f1d02a0bd2faace11451a33014a5da38587896e68fbab0e9ec2",
+    "/Users/lyb/Desktop/python金融大数据分析（课堂教学文件）/课程配套资源/Python数据分析与应用（第3版）_正文数据和代码/知识准备/项目3/code/任务3.2 分析工业产品产量数据的基本情况.ipynb": "5593fe4e35e48298a9bb6de09e37df2e922725bb5c79f6e33f385efe70f294a2",
+    "/Users/lyb/Desktop/python金融大数据分析（课堂教学文件）/课程配套资源/Python数据分析与应用（第3版）_正文数据和代码/知识准备/项目3/data/salesdata.csv": "a77e18dcea5cd40e2babbc7a754ea2b40c9173842e8a86f98d14a5e87fdd2d27",
+    "/Users/lyb/Desktop/python金融大数据分析（课堂教学文件）/课程配套资源/Python数据分析与应用（第3版）_正文数据和代码/知识准备/项目3/data/salesdata.xlsx": "f927841c9472da0314d552c5d99de83eb56e0b78e3c48d648d5d33d86b2bdb38",
+    "/Users/lyb/Desktop/python金融大数据分析（课堂教学文件）/课程配套资源/Python数据分析与应用（第3版）_正文数据和代码/任务实现/项目3/data/工业产品产量数据.csv": "efeb0438714838f067fa31a1b3a2d858dd25cc526d3b7dd19cef7f70388538fb"
+  },
+  "protected_files_unchanged": true,
+  "original_sources_unchanged": true,
+  "scripts": "2 passed on pandas3.1",
+  "execution_copy": "/var/folders/qj/yrdc2hrx3mg1qw023rfvp3600000gn/T/week05-extensions-1l0kbp89",
+  "extension_count": 20,
+  "delivery_date": "2026-10-25",
+  "final_classroom_files": {
+    "上课文件/02_任务3.2_基本操作与统计_新版pandas.ipynb": "079fe0b897daf03e87a0062b499b6174e6616d923a12c592f161631a45e856e9",
+    "上课文件/01_任务3.1_读取数据_新版pandas.ipynb": "b471a98f0a0c76b1d0d1d2b7d59f8b2b096b12785a70cc3963e5fff673230cff",
+    "上课文件/02_任务3.2_基本操作与统计_新版pandas.py": "646f150682f795be1614f365e191ccf6f4d390c310a06571106adaa4fd87ccd7",
+    "上课文件/01_任务3.1_读取数据_新版pandas.py": "13137b596ecd6d87386a00dc93d9ff734d36df044c20b1c35076281016e56967"
+  },
+  "preserved_non_classroom_files": {
+    "选做内容/选做内容.ipynb": "cdecc7b43aaa7bbc6d56923f445b820f72e54a4c74ab5b8c23f1a767d32d5f7f",
+    "选做内容/.gitignore": "04505f9d70e19469ea4bccd9208ea7de4b58b143f008dfe7a6396afa70fbe02e",
+    "选做内容/mysql.example.ini": "ccdd1a150766c05012af1b5e2f256553446d5d9af3aca27ce1665e63ad58c742",
+    "练习文件/03_学生独立练习.ipynb": "200ac01dc1164a7799e9a317d6a98e77596dfd4d92d0bfad8ae7b1ac2dabe485",
+    "练习文件/第五周_学生资源.zip": "a799f9a48d8b20592004aaf251324db1012f65b0434d9f23edd3138d4d16282f",
+    "练习文件/04_教师参考答案_请勿随学生版分发.ipynb": "c9c5d08659096ce0092f75935fcc5f7f5af73ca3cacddd5e4b449d805564b218",
+    "data/salesdata.csv": "a77e18dcea5cd40e2babbc7a754ea2b40c9173842e8a86f98d14a5e87fdd2d27",
+    "data/salesdata.xlsx": "f927841c9472da0314d552c5d99de83eb56e0b78e3c48d648d5d33d86b2bdb38",
+    "data/工业产品产量数据.csv": "efeb0438714838f067fa31a1b3a2d858dd25cc526d3b7dd19cef7f70388538fb",
+    "outputs/salesdata.xlsx": "c5a53a41c7e2ffb24f13e18b41da8832010ef685737ddc8d83d9c40f4465aa8e",
+    "outputs/salesdataInfo.csv": "830eeac09e46a9516dddd46ed6910b0d88da52a559d57b2884944a86f6e822c9",
+    "outputs/练习筛选.csv": "6c366acd1c4705b464e9ff966a545fb29e22ac9aa58b0c07057bf3c7d412df3a"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "markdown_local_links_checked": 83,
+  "valid": 82,
+  "legacy_missing": [
+    {
+      "document": "教学管理/资源索引.md",
+      "target": "../备课工作区/第03周_NumPy粮食产量分析/第三周_学生资源.zip"
+    }
+  ],
+  "new_links": "all passed",
+  "notebook_structure": "5 passed",
+  "student_zip": "7 allowlisted files; no answers or SQL",
+  "protected_course_files": "15 unchanged",
+  "metadata_note": ".DS_Store change observed; not altered by task commands",
+  "handoff": "/var/folders/qj/yrdc2hrx3mg1qw023rfvp3600000gn/T/week05-handoff-t5mpkx_4/handoff.md",
+  "timing_minutes": [
+    40,
+    40,
+    40,
+    40
+  ],
+  "path_layout_note": "2026-10-24文件已分类；历史运行目录不变，当前路径见README。"
+}
